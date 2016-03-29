@@ -1,7 +1,7 @@
 name: Heritage Photography
 favicon: null
-layout_spectrum: 0.1273853515740484
-typography_spectrum: 0.6864744923077524
+layout_spectrum: 0.0708
+typography_spectrum: 0.65155
 title: Follow the journey of a sprouting photographer.
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9521599356085062
-  lightness: 0.4251719459425658
-  saturation: 0.09325135429389775
-  rhythmicContrast: 0.35064743808470666
+    - '#5197dc'
+    - '#090a05'
+    - '#ccd5de'
+    - '#465327'
+    - '#7c8a35'
+  brandStrength: 0.875
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
