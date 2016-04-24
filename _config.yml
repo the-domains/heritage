@@ -1,29 +1,41 @@
-name: Heritage Photography
-favicon: null
-layout_spectrum: 0.0708
-typography_spectrum: 0.65155
 title: Follow the journey of a sprouting photographer.
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5
+  brandStrength: 0.875
+  lightness: 0.75
+  brandColors:
+    - '#171312'
+    - '#960C1B'
+    - '#5B0C14'
+    - '#985440'
+    - '#C58A6C'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Heritage Photography
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#5197dc'
-    - '#090a05'
-    - '#ccd5de'
-    - '#465327'
-    - '#7c8a35'
-  brandStrength: 0.875
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.65155
+layout_spectrum: 1
