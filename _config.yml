@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.7096774
-  brandStrength: 0.875
-  lightness: 0.1541219
+  saturation: 0
+  brandStrength: 0
+  lightness: 0
   brandColors:
     - '#171312'
     - '#960C1B'
     - '#5B0C14'
     - '#985440'
     - '#C58A6C'
-  rhythmicContrast: 0.4103943
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Heritage Photography
+favicon: null
 opengraph:
   image: null
   type: null
